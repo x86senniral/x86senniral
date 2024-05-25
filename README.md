@@ -37,8 +37,8 @@ Additional:
 
 # Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sytaxus&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=x86senniral&show_icons=true&theme=tokyonight" />
   <span style="display: inline-block; width: 20px;"></span> <!-- Spacer element -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sytaxus&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x86senniral&layout=compact&theme=tokyonight" />
 </p>
 
