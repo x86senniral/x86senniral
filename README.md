@@ -19,7 +19,7 @@ More:
 Additional:
 
 [![Tryhackme](https://img.shields.io/badge/Tryhackme-%23E4405F.svg?logo=Tryhackme&logoColor=white)](https://tryhackme.com/p/snrx86)
-[![HTB](https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/users/1540330)
+[![HTB](https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/1540330)
 [![picoCTF](https://img.shields.io/badge/picoCTF-red)](https://play.picoctf.org/users/vahsern)
 
 # Statistics
